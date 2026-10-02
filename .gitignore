@@ -3,4 +3,5 @@ output/*
 __pycache__/
 .env
 !inputs/.gitkeep
-.claude/
+.claude/launch.json
+runs/
