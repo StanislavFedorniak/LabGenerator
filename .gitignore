@@ -1,0 +1,6 @@
+inputs/*
+output/*
+__pycache__/
+.env
+!inputs/.gitkeep
+.claude/
